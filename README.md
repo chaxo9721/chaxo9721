@@ -46,7 +46,7 @@ Lancement de mes projets
     
 ## Support
 
-For support, email abdouhimidi123@gmail.com ou rejoins notre serveurs [serveur](https://discord.gg/hMpfdryV).
+For support, email abdouhimidi123@gmail.com ou rejoins notre serveurs [serveur](https://discord.gg/F2dNDJ3a5E).
 
 
 ## Running Tests
