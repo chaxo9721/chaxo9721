@@ -4,7 +4,7 @@
 # Bienvenue sur mon profil GitHub !
 
 ## À propos de moi
-Je suis passionné(e) par la programmation, la création de logiciels et le partage de connaissances. Mon profil GitHub est un espace où je partage mes projets, mes idées et mes créations avec la communauté.
+Je suis passionné par la programmation, la création de logiciels et le partage de connaissances. Mon profil GitHub est un espace où je partage mes projets, mes idées et mes créations avec la communauté.
 
 ## Mes contributions
 - Vous trouverez ici des projets open source que j'ai développés.
@@ -23,7 +23,7 @@ N'hésitez pas à explorer mes dépôts, à me suivre et à me contacter si vous
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -44,9 +44,6 @@ Lancement de mes projets
  python install requirement.txt
 ```
     
-## Support
-
-For support, email abdouhimidi123@gmail.com ou rejoins notre serveurs [serveur](https://discord.gg/5JA5Jx4srX).
 
 
 ## Running Tests
